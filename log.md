@@ -22,6 +22,6 @@
 
 **Thoughts:** I had to miss yesterday because family was still in town and my baby was being particularly needy and cranky. Today I got back on track. Regarding the work, the more I use Angular, the more I like it and the intricacies makes sense. This is exciting, because I've used Angular for some time now, but never really had the chance to explore it in depth like I am now...and I like it!
 
-**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/682c3d844e713317be4abc28779d06cdf0acc459)
-**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/bc9a1a22580bc9deb32d4074d711dffa14ca9ca3)
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/682c3d844e713317be4abc28779d06cdf0acc459)  
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/bc9a1a22580bc9deb32d4074d711dffa14ca9ca3)  
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/7ff8f431f40d526fc320eceffb532fe3e31cded5)
