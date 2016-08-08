@@ -25,3 +25,11 @@
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/682c3d844e713317be4abc28779d06cdf0acc459)  
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/bc9a1a22580bc9deb32d4074d711dffa14ca9ca3)  
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/7ff8f431f40d526fc320eceffb532fe3e31cded5)
+
+### Day 4: August 7, 2016
+
+**Today's Progress:** Adding browserify to the project along with gulp so we don't have so many files linked in the index.html
+
+**Thoughts:** I've got to figure out a better time of day to do this...not getting much sleep and coding late is slow going...
+
+**Link to work:** 
