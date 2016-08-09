@@ -33,3 +33,11 @@
 **Thoughts:** I've got to figure out a better time of day to do this...not getting much sleep and coding late is slow going...
 
 **Link to work:** 
+
+### Day 4: August 8, 2016
+
+**Today's Progress:** Found out the hard way browserify is not as easy when on an Angular project, so switched to gulp concat instead. Now testing.
+
+**Thoughts:** Tired, not enough sleep, but sticking with it.
+
+**Link to work:** 
