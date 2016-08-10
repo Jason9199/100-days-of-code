@@ -48,10 +48,10 @@
 
 **Thoughts:** Today was very educational. I feel like I understand gulp a lot more and I have to say I'm very proud of myself for working out all the bugs and getting this to work successfully!
 
-**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/37043fa3bec50eef8c4f269ff0a25287587e3405)
-**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/c08df56340be928d8c1cd362d68a9647115912ed)
-**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/24f356b92440ea5fc43da8b4857ded9ab4794a49)
-**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/aa0247c83ad15fd35a56829391f62bd41001d454)
-**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/05289b621a6580b4353b01b5f885e9ac6769f138)
-**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/ac8dcd2e85eaa308211fe15bd4938cff459a2f63)
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/37043fa3bec50eef8c4f269ff0a25287587e3405)  
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/c08df56340be928d8c1cd362d68a9647115912ed)  
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/24f356b92440ea5fc43da8b4857ded9ab4794a49)  
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/aa0247c83ad15fd35a56829391f62bd41001d454)  
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/05289b621a6580b4353b01b5f885e9ac6769f138)  
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/ac8dcd2e85eaa308211fe15bd4938cff459a2f63)  
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/b72b3e7ef5b88c92f8f99b0916393acc80e8b0bc)
