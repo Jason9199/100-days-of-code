@@ -55,3 +55,11 @@
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/05289b621a6580b4353b01b5f885e9ac6769f138)  
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/ac8dcd2e85eaa308211fe15bd4938cff459a2f63)  
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/b72b3e7ef5b88c92f8f99b0916393acc80e8b0bc)
+
+### Day 7: August 10, 2016
+
+**Today's Progress:** Spent some time researching for a photography website I'm building for my daughter to post her portfolio.
+
+**Thoughts:** Sometimes it's not all about typing code in a text editor...
+
+**Link to work:**
