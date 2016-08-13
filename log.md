@@ -63,3 +63,13 @@
 **Thoughts:** Sometimes it's not all about typing code in a text editor...
 
 **Link to work:**
+
+### Day 8: August 12, 2016
+
+**Today's Progress:** Added some more gulp tasks to the Impakt CMS project, setting up watch and browsersync. Slimmed down some code in the controller I'm working on and started the skeletal framework for the functionality it will need since I'm still waiting on the client side facing stuff.
+
+**Thoughts:** Also joined in on a start up that may be funded this fall or winter on equity. We'll see how it goes, but I like the idea of the project and the people I'll be working with.
+
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/42dd515bd523b4f1dc0858ac94b14352f132cb07)  
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/dfecb6244aff81e6f592b26b5a572f96104f0ce1)  
+**Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/c32775895202aa71924822d6920168bdec3f06a6)
