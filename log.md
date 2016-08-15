@@ -73,3 +73,11 @@
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/42dd515bd523b4f1dc0858ac94b14352f132cb07)  
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/dfecb6244aff81e6f592b26b5a572f96104f0ce1)  
 **Link to work:** [Impakt CMS](https://github.com/Impakt-cms/Impakt_cms/commit/c32775895202aa71924822d6920168bdec3f06a6)
+
+### Day 9: August 14, 2016
+
+**Today's Progress:** More research for my daughter's photography portfolio website. Lots of design work go into these sites.
+
+**Thoughts:** 
+
+**Link to work:** 
