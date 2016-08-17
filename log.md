@@ -81,3 +81,11 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 10: August 16, 2016
+
+**Today's Progress:** Worked on starting a Random Quote Machine for Free Code Camp https://www.freecodecamp.com/challenges/build-a-random-quote-machine
+
+**Thoughts:** I want to teach myself SASS while building this project, so I'm using that. Also getting ironed out how to do API calls and using that data that I get back.
+
+**Link to work:** http://codepen.io/Jason9199/pen/KMgXRr
