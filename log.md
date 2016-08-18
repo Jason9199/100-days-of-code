@@ -89,3 +89,11 @@
 **Thoughts:** I want to teach myself SASS while building this project, so I'm using that. Also getting ironed out how to do API calls and using that data that I get back.
 
 **Link to work:** http://codepen.io/Jason9199/pen/KMgXRr
+
+### Day 11: August 17, 2016
+
+**Today's Progress:** Worked some more on the Random Quote Machine for Free Code Camp https://www.freecodecamp.com/challenges/build-a-random-quote-machine Just needs some styling now as it's fully functional.
+
+**Thoughts:** Tomorrow diving heavy into SASS to style this bugger up and call it done.
+
+**Link to work:** http://codepen.io/Jason9199/pen/KMgXRr
