@@ -97,3 +97,11 @@
 **Thoughts:** Tomorrow diving heavy into SASS to style this bugger up and call it done.
 
 **Link to work:** http://codepen.io/Jason9199/pen/KMgXRr
+
+### Day 12: August 21, 2016
+
+**Today's Progress:** Got a little bit done on the Random Quote Machine. Trying to figure out how to reset the "Tweet" link every time you click it so it'll accept the new quote that's loaded.
+
+**Thoughts:** Well got a little done on #100DaysofCode before my baby cut the night short. Will try again tomorrow.
+
+**Link to work:** http://codepen.io/Jason9199/pen/KMgXRr
