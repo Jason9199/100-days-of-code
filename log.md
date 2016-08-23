@@ -105,3 +105,11 @@
 **Thoughts:** Well got a little done on #100DaysofCode before my baby cut the night short. Will try again tomorrow.
 
 **Link to work:** http://codepen.io/Jason9199/pen/KMgXRr
+
+### Day 13: August 22, 2016
+
+**Today's Progress:** Random Quote Machine is done
+
+**Thoughts:** It's ugly, and I'll go back to it & make it pretty later, but it's functional. Learned #SASS and perfected AJAX.
+
+**Link to work:** http://codepen.io/Jason9199/pen/KMgXRr
